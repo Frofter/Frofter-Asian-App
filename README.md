@@ -3,6 +3,8 @@
 
  Latest version [Download](https://github.com/Frofter/Frofter-Asian-App/releases)
 
+ Also check our Anime App: [Frofter Anime](https://github.com/Frofter/Frofter-Anime-App)
+ 
  
 Main:
 
