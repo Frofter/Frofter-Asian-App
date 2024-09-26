@@ -4,7 +4,8 @@
  Latest version [Download](https://github.com/Frofter/Frofter-Asian-App/releases)
 
  Also check our Anime App: [Frofter Anime](https://github.com/Frofter/Frofter-Anime-App)
- 
+
+ Note: The following images are from some previous versions (Too lazy to upload new images (: )
  
 Main:
 
